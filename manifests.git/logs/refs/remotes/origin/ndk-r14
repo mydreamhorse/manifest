@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 9af3d7610a55d780180dae2b886f361d5f769e6a Robert Ma <mydreamhorse@qq.com> 1528813509 +0800	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head
